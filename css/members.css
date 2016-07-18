@@ -1,3 +1,6 @@
+html, body {
+	width: 100%;
+}
 body {
 	font-family: 'Roboto', sans-serif;
 }
@@ -15,7 +18,7 @@ ul {
 }
 /** Log In / Sign Up **/
 .signinup {
-	width: 960px;
+	width: 60%;
 	margin: 0px auto;
 	text-align: center;
 }
